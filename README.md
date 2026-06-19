@@ -206,7 +206,7 @@ El sistema también podría adaptarse a diferentes áreas. Aunque la propuesta i
 El funcionamiento del sistema dependerá de la calidad y variedad de las imágenes utilizadas durante el entrenamiento. Numberbot fue entrenado con imagenes digitales de la web y escritura de numeros a mano
 
 También debe considerarse que el modelo detecta dígitos individuales, pero no comprende automáticamente el significado completo de una operación matemática. Para interpretar ecuaciones sería necesario entrenar nuevas clases, como:
-
+```text
 +
 -
 ×
@@ -215,6 +215,7 @@ También debe considerarse que el modelo detecta dígitos individuales, pero no 
 .
 ,
 %
+```
 Tambien se consideraria simbolos de la matematica avanzada.
 
 Otra mejora consistiría en ampliar el dataset con diferentes tipos de letra, tamaños, colores, fondos, niveles de iluminación y estilos de escritura. Esto permitiría que el modelo funcione en una mayor variedad de documentos reales.
