@@ -1,0 +1,6 @@
+path: ../data_set  # Ruta hacia tu carpeta de datos
+train: images/train  # Fotos de entrenamiento
+val: images/val      # Fotos de validación
+
+nc: 10  # Cambia este número por la cantidad total de clases/números que vas a detectar
+names: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']  # Pon aquí los nombres de tus clases en orden
