@@ -4,6 +4,13 @@ Integrantes:
 Abraham Marentes Ramirez     23310382 as DarkDemon19
 Manuel Emiliano Osorio Muñoz 23310359 as T-55AM1
 
+## copilar
+
+##En la terminal escriba:
+   cd Yolo
+##Inicien con el comando:
+   python probar.py
+
 ## Caso de estudio: Numberbot by YOLO 
 
 ### 1. Descripción general
