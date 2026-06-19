@@ -8,6 +8,7 @@ Manuel Emiliano Osorio Muñoz 23310359 as T-55AM1
 
 ##En la terminal escriba:
    cd Yolo
+   
 ##Inicien con el comando:
    python probar.py
 
