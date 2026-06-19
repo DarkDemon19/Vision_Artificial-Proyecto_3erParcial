@@ -181,12 +181,12 @@ Un docente necesita digitalizar las respuestas numéricas de varias hojas de eje
 El sistema fotografía cada documento y Numberbot identifica los números escritos o impresos. Las detecciones se organizan de acuerdo con la posición de cada ejercicio. Posteriormente, el docente observa los resultados en pantalla y corrige solamente aquellos valores que el modelo haya marcado con baja confianza.
 
 Después de la revisión, el sistema genera una tabla como la siguiente:
-
+```text
 Alumno | Ejercicio 1 | Ejercicio 2 | Ejercicio 3
 A01    |      25     |      48     |      120
 A02    |      24     |      46     |      115
 A03    |      25     |      48     |      120
-
+```
 Esta información podría utilizarse para almacenar respuestas, comparar resultados o realizar análisis estadísticos. Para que el sistema califique automáticamente, sería necesario agregar una etapa que compare las respuestas detectadas con una plantilla de respuestas correctas.
 
 -----------------------------------------------------------------
